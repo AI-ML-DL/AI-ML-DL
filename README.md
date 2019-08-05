@@ -1,6 +1,3 @@
-# AI-ML-DL
-___
-
 ## 저수준 API를 이용한 ML, DL 이해하기 
 
 ### Linear Regression
@@ -39,7 +36,7 @@ ___
 
 ___
 
-### 실전 프로젝트 
+## 실전 프로젝트 
 딥러닝(Deep Learning) 알고리즘인 합성곱 신경망(Convolution Nerual Network)과 순환 신경망(Recurrent Neural Network)을 구성하는 구조 중 장단기 기억 네트워크(Long-Short Term Memory Network) 알고리즘을 활용하여 한국어 영화 리뷰를 감정 분석 하는 예제를 tensorflow를 통해 작성하고, 학습된 모델을 통해 사용자가 입력한 영화 리뷰에 대한 문장의 감정 분석을 실험해 볼 수 있는 웹 어플리케이션을 제작
 
 * [Project](https://github.com/AI-ML-DL/AI-ML-DL/tree/master/Project)
