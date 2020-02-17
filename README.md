@@ -53,4 +53,4 @@ ___
 ![bookCover](cover2.jpg)
 
 ___
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAI_ML_DL)](https://hits.seeyoufarm.com)                     
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAI-ML-DL%2FAI-ML-DL)](https://hits.seeyoufarm.com)
