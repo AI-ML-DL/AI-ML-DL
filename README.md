@@ -51,3 +51,6 @@ ___
 
 ### [인공지능을 위한 텐서플로우 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=14519495)
 ![bookCover](cover2.jpg)
+
+___
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                        
